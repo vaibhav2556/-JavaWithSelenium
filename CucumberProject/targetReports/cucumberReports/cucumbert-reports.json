@@ -1,0 +1,310 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Login user",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 42178000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user available on login page",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_available_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 574000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin\"",
+                  "offset": 11
+                }
+              ],
+              "location": "Features.LoginsetpDefination.user_enter_Username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 122000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user  are enter \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin123\"",
+                  "offset": 16
+                }
+              ],
+              "location": "Features.LoginsetpDefination.user_are_enter(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15907000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user click on login button",
+            "match": {
+              "location": "Features.LoginsetpDefination.click_on_login_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-06T05:44:38.770Z",
+        "line": 14,
+        "name": "Verify Login Functionality",
+        "description": "",
+        "id": "login-functionality;verify-login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user  navigate to home page",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_navigate_to_home_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 104000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user click on welcome button",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_click_on_welcome_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7485000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user click on logout button",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_click_on_logout_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user able to logout from application",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_able_to_logout_from_application()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 903000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "close the browser",
+            "match": {
+              "location": "Features.LoginsetpDefination.closeBrowser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Login user",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 18668000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user available on login page",
+            "match": {
+              "location": "Features.LoginsetpDefination.user_available_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 135000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin\"",
+                  "offset": 11
+                }
+              ],
+              "location": "Features.LoginsetpDefination.user_enter_Username(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 134000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user  are enter \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin123\"",
+                  "offset": 16
+                }
+              ],
+              "location": "Features.LoginsetpDefination.user_are_enter(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17208000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user click on login button",
+            "match": {
+              "location": "Features.LoginsetpDefination.click_on_login_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-06T05:45:46.149Z",
+        "line": 36,
+        "name": "Verify PIN Module",
+        "description": "",
+        "id": "login-functionality;verify-pin-module",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9474000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user click on PIN Module",
+            "match": {
+              "location": "Features.PINStepDefination.user_click_on_PIN_Module()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1740000000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "user able to see sub module and user click on Reports module",
+            "match": {
+              "location": "Features.PINStepDefination.user_able_to_see_sub_module_and_user_click_on_Reports_module()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 129000000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user navigate to report page and user enter report name into text box",
+            "match": {
+              "location": "Features.PINStepDefination.user_navigate_to_report_page_and_user_enter_report_name_into_text_box()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1590000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "click on search button",
+            "match": {
+              "location": "Features.PINStepDefination.click_on_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 110000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user able to see report",
+            "match": {
+              "location": "Features.PINStepDefination._user_able_to_see_report()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 468000000,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "finaly close the browser",
+            "match": {
+              "location": "Features.PINStepDefination.closeBrowser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/Login.feature",
+    "tags": []
+  }
+]
