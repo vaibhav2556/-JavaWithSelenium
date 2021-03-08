@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 42178000000,
+              "duration": 30362000000,
               "status": "passed"
             },
             "line": 5,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 574000000,
+              "duration": 894000000,
               "status": "passed"
             },
             "line": 6,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 122000000,
+              "duration": 95000000,
               "status": "passed"
             },
             "line": 7,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 15907000000,
+              "duration": 13533000000,
               "status": "passed"
             },
             "line": 8,
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-06T05:44:38.770Z",
+        "start_timestamp": "2021-03-08T13:32:18.275Z",
         "line": 14,
         "name": "Verify Login Functionality",
         "description": "",
@@ -82,7 +82,7 @@
         "steps": [
           {
             "result": {
-              "duration": 22000000,
+              "duration": 100000000,
               "status": "passed"
             },
             "line": 20,
@@ -94,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 104000000,
+              "duration": 68000000,
               "status": "passed"
             },
             "line": 21,
@@ -106,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 7485000000,
+              "duration": 4484000000,
               "status": "passed"
             },
             "line": 22,
@@ -118,7 +118,7 @@
           },
           {
             "result": {
-              "duration": 10000000,
+              "duration": 12000000,
               "status": "passed"
             },
             "line": 23,
@@ -130,7 +130,7 @@
           },
           {
             "result": {
-              "duration": 903000000,
+              "duration": 4146000000,
               "status": "passed"
             },
             "line": 24,
@@ -156,7 +156,7 @@
         "steps": [
           {
             "result": {
-              "duration": 18668000000,
+              "duration": 18456000000,
               "status": "passed"
             },
             "line": 5,
@@ -168,7 +168,7 @@
           },
           {
             "result": {
-              "duration": 135000000,
+              "duration": 141000000,
               "status": "passed"
             },
             "line": 6,
@@ -186,7 +186,7 @@
           },
           {
             "result": {
-              "duration": 134000000,
+              "duration": 151000000,
               "status": "passed"
             },
             "line": 7,
@@ -204,7 +204,7 @@
           },
           {
             "result": {
-              "duration": 17208000000,
+              "duration": 18902000000,
               "status": "passed"
             },
             "line": 8,
@@ -217,7 +217,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-06T05:45:46.149Z",
+        "start_timestamp": "2021-03-08T13:33:12.542Z",
         "line": 36,
         "name": "Verify PIN Module",
         "description": "",
@@ -227,7 +227,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9474000000,
+              "duration": 3262000000,
               "status": "passed"
             },
             "line": 39,
@@ -239,7 +239,7 @@
           },
           {
             "result": {
-              "duration": 1740000000,
+              "duration": 1052000000,
               "status": "passed"
             },
             "line": 40,
@@ -251,7 +251,7 @@
           },
           {
             "result": {
-              "duration": 129000000,
+              "duration": 170000000,
               "status": "passed"
             },
             "line": 41,
@@ -263,7 +263,7 @@
           },
           {
             "result": {
-              "duration": 1590000000,
+              "duration": 1737000000,
               "status": "passed"
             },
             "line": 42,
@@ -275,7 +275,7 @@
           },
           {
             "result": {
-              "duration": 110000000,
+              "duration": 60000000,
               "status": "passed"
             },
             "line": 43,
@@ -287,7 +287,7 @@
           },
           {
             "result": {
-              "duration": 468000000,
+              "duration": 3591000000,
               "status": "passed"
             },
             "line": 47,
